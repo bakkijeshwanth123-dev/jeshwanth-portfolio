@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Initialize Lucide Icons
     lucide.createIcons();
+    alert("this is portfolio")
 
     // Elements
     const themeToggle = document.getElementById('theme-toggle');
@@ -169,4 +170,5 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+
 
