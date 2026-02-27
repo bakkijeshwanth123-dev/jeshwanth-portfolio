@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const scrollToTop = document.getElementById('scroll-to-top');
 
     // Typing Animation
-    const roles = ["Web Developer", "Full Stack Learner", "AI Prompt Engineer"];
+    const roles = ["Web Developer", "Full Stack Devloper", "AI Prompt Engineer"];
     let roleIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
@@ -169,3 +169,4 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+
